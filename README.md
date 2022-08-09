@@ -4,7 +4,7 @@
 <h4 align="center"> Desarrollador Fullstack en Java y javascript con 2 años de experiencia, en constante aprendizaje y desarrollando proyectos propios.</h4>
 
 <h4 align="center">
-Administrador de empresas con más de 10 años de experiencia, cuento con excelentes conocimientos de contabilidad y finanzas.
+Ademas soy administrador de empresas con más de 10 años de experiencia. Cuento con excelentes conocimientos de contabilidad y finanzas, ademas de tener experiencia como jefe de proyectos y analista funcional.
 Soy una persona proactiva, organizada, disfruto de trabajar en equipo, alcanzar nuevos objetivos y especialista en solución de problemas. 
 </h4>
 

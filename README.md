@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋,mi nombre es Francisco Gomez Sandoval</h1>
 <h3 align="center">Desarrollador Fullstack en Javascript y Java</h3>
 
-<h4 align="center"> Desarrollador Fullstack en Java y javascript con 2 años de experiencia, soy chileno y actualmente me encuentro vivien do en Colombia. Estoy en constante aprendizaje y desarrollando proyectos propios.</h4>
+<h4 align="center"> Desarrollador Fullstack en Java y javascript con 2 años de experiencia, soy chileno y actualmente me encuentro viviendo en Colombia. Estoy en constante aprendizaje y desarrollando proyectos propios.</h4>
 
 <h4 align="center">
 Ademas, soy administrador de empresas con más de 10 años de experiencia. Cuento con excelentes conocimientos de contabilidad y finanzas, ademas de tener experiencia como jefe de proyectos y analista funcional. Esto, me ha permitido en mi vida profesional tener experiencias en bases de datos basicos conocimientos de arquitectura y lenguajes de programacion. 
